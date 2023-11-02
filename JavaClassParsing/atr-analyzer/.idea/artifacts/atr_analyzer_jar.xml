@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="atr-analyzer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/atr_analyzer_jar</output-path>
+    <root id="archive" name="atr-analyzer.jar">
+      <element id="module-output" name="atr-analyzer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/json/javax.json-api/1.1.4/javax.json-api-1.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core-serialization/3.25.3/javaparser-core-serialization-3.25.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.25.3/javaparser-core-3.25.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

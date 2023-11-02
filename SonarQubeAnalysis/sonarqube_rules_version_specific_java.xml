@@ -1,0 +1,817 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<profile>
+    <name>Java-Specific</name>
+    <language>java</language>
+    <rules>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S106</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1110</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1126</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1155</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1161</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>5</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1210</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1220</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S125</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1596</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>5</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1602</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1604</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1610</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1612</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1640</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1710</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1844</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>5</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1849</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1874</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>9</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1905</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S1948</key>
+            <type>CODE_SMELL</type>
+            <priority>CRITICAL</priority>
+            <javaVersion>6, 7</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2060</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>1</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2062</key>
+            <type>CODE_SMELL</type>
+            <priority>CRITICAL</priority>
+            <javaVersion>1</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2066</key>
+            <type>BUG</type>
+            <priority>MINOR</priority>
+            <javaVersion>1</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2093</key>
+            <type>CODE_SMELL</type>
+            <priority>CRITICAL</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2111</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>1</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2122</key>
+            <type>BUG</type>
+            <priority>CRITICAL</priority>
+            <javaVersion>5</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2147</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>7</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2151</key>
+            <type>BUG</type>
+            <priority>CRITICAL</priority>
+            <javaVersion>1</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2167</key>
+            <type>BUG</type>
+            <priority>MINOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2178</key>
+            <type>CODE_SMELL</type>
+            <priority>BLOCKER</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2185</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2200</key>
+            <type>BUG</type>
+            <priority>MINOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2204</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>5</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2272</key>
+            <type>BUG</type>
+            <priority>MINOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2274</key>
+            <type>CODE_SMELL</type>
+            <priority>CRITICAL</priority>
+            <javaVersion>5</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2293</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2437</key>
+            <type>CODE_SMELL</type>
+            <priority>BLOCKER</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2442</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>5</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2612</key>
+            <type>SECURITY_HOTSPOT</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2677</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>1</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2695</key>
+            <type>BUG</type>
+            <priority>BLOCKER</priority>
+            <javaVersion>1</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2789</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S2864</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S3011</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S3020</key>
+            <type>BUG</type>
+            <priority>MINOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S3066</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>5</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S3078</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>5</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S3631</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S3655</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S3740</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S3824</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S3864</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S3958</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S3959</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4034</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4036</key>
+            <type>SECURITY_HOTSPOT</type>
+            <priority>MINOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4042</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>7</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4065</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4087</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>7</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4143</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4347</key>
+            <type>VULNERABILITY</type>
+            <priority>CRITICAL</priority>
+            <javaVersion>1</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4348</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4351</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4512</key>
+            <type>SECURITY_HOTSPOT</type>
+            <priority>CRITICAL</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4719</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>7</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4738</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>9</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4830</key>
+            <type>VULNERABILITY</type>
+            <priority>CRITICAL</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S4838</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S5164</key>
+            <type>BUG</type>
+            <priority>MAJOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S5322</key>
+            <type>SECURITY_HOTSPOT</type>
+            <priority>CRITICAL</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S5361</key>
+            <type>CODE_SMELL</type>
+            <priority>CRITICAL</priority>
+            <javaVersion>4</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S5413</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>2</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S5445</key>
+            <type>VULNERABILITY</type>
+            <priority>CRITICAL</priority>
+            <javaVersion>7</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S5527</key>
+            <type>VULNERABILITY</type>
+            <priority>CRITICAL</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S5663</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S5738</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>9</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S5843</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters>
+                <parameter>
+                    <key>maxComplexity</key>
+                    <value>20</value>
+                </parameter>
+            </parameters>
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S5854</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S5976</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6001</key>
+            <type>BUG</type>
+            <priority>CRITICAL</priority>
+            <javaVersion>4</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6019</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6035</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6104</key>
+            <type>BUG</type>
+            <priority>CRITICAL</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6126</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6201</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>16</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6202</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>1</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6203</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion></javaVersion>
+            <parameters>
+                <parameter>
+                    <key>MaximumNumberOfLines</key>
+                    <value>5</value>
+                </parameter>
+            </parameters>
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6204</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>8, 10, 16</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6206</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>16</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6207</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion>16</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6213</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6217</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>17</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6219</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>16</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6241</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6243</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6244</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6246</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion>8</javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6326</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6331</key>
+            <type>CODE_SMELL</type>
+            <priority>MAJOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+        <rule>
+            <repositoryKey>java</repositoryKey>
+            <key>S6353</key>
+            <type>CODE_SMELL</type>
+            <priority>MINOR</priority>
+            <javaVersion></javaVersion>
+            <parameters />
+        </rule>
+    </rules>
+</profile>

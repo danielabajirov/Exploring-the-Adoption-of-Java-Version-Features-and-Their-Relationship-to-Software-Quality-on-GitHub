@@ -1,0 +1,68 @@
+
+L
+java:S2629c"7Use the built-in formatting to construct this argument.(Áæâf
+R
+java:S2629~"7Use the built-in formatting to construct this argument.(½¡«Ïıÿÿÿÿ
+S
+java:S2629"7Use the built-in formatting to construct this argument.(ò«Ößÿÿÿÿÿ
+N
+java:S2629‘"7Use the built-in formatting to construct this argument.(§¹Ùå
+z
+java:S1450,"_Remove the "counterTotalRepo" field and declare it as a local variable in the relevant methods.(Ì‚éıùÿÿÿÿ
+‡
+java:S1130T"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(×¬£¹úÿÿÿÿ
+`
+java:S3457c"KFormat specifiers or lambda should be used instead of string concatenation.(Áæâf
+f
+java:S3457~"KFormat specifiers or lambda should be used instead of string concatenation.(½¡«Ïıÿÿÿÿ
+]
+java:S1854"ARemove this useless assignment to local variable "formattedDate".(Œ’™ışÿÿÿÿ
+N
+java:S1481"2Remove this unused "formattedDate" local variable.(Œ’™ışÿÿÿÿ
+c
+java:S2677œ"LUse or store the value returned from "readLine" instead of throwing it away.(™¸¡
+u
+java:S2142í"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+i
+java:S6204Œ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+P
+java:S3457‘"4Lambda should be used to defer string concatenation.(­Èˆ³şÿÿÿÿ
+C
+java:S1481˜",Remove this unused "counter" local variable.(ŒÂëó
+K
+java:S3457¢"4Lambda should be used to defer string concatenation.(Ñáß–
+K
+java:S3457¦"4Lambda should be used to defer string concatenation.(Ü¢¢¤
+K
+java:S3457Ú"4Lambda should be used to defer string concatenation.(¿»Ñ
+P
+java:S3457ß"4Lambda should be used to defer string concatenation.(­Èˆ³şÿÿÿÿ
+R	java:S125é"<This block of commented-out lines of code should be removed.(§ìÓ£
+P
+java:S3457ú"4Lambda should be used to defer string concatenation.(ğÄªÄøÿÿÿÿ
+u
+java:S2142“"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+g
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(ò«Ößÿÿÿÿÿ
+b
+java:S3457‘"KFormat specifiers or lambda should be used instead of string concatenation.(§¹Ùå
+P
+java:S3457”"4Lambda should be used to defer string concatenation.(Û‚Ÿ¼úÿÿÿÿ
+b
+java:S3457©"KFormat specifiers or lambda should be used instead of string concatenation.(ë¢£“
+H
+java:S1172°"1Remove this unused method parameter "outputFile".(ù»
+Z
+java:S1128"?Remove this unused import 'com.github.javaparser.ast.NodeList'.(Òñ¢³øÿÿÿÿ
+e
+java:S1128	"JRemove this unused import 'com.github.javaparser.ast.expr.AnnotationExpr'.(±ç™°ûÿÿÿÿ
+`
+java:S1128"ERemove this unused import 'com.github.javaparser.ast.body.Parameter'.(ò”ªÂşÿÿÿÿ
+:
+java:S1128"%Remove this unused import 'java.net'.(Ğ‡
+G
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+M
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+A
+java:S1068."+Remove this unused "flagFro" private field.(úÒæ·

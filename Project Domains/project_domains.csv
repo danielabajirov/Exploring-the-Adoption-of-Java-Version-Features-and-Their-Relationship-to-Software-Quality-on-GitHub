@@ -1,0 +1,2168 @@
+ProjectName,Domain
+alicloud-android-demo,Application Software
+alipay-easysdk,Web Libraries and Frameworks
+aliyun-openapi-java-sdk,Documentation
+aliyun-oss-android-sdk,Web Libraries and Frameworks
+aliyun-oss-java-sdk,Web Libraries and Frameworks
+allocation-instrumenter,Non-Web Libraries and Frameworks
+allure-java,Web Libraries and Frameworks
+allure2,Documentation
+alluxio,System Software
+alpha-wallet-android,Application Software
+altoclef,Application Software
+Amarok-Hider,Application Software
+amazon-ecs-plugin,Web Libraries and Frameworks
+amazon-kinesis-client,Application Software
+amazon-neptune-tools,Web Libraries and Frameworks
+ambry,System Software
+amidst,Non-Web Libraries and Frameworks
+AndResGuard,Software Tools
+AndrOBD,Application Software
+Android,Documentation
+android-about-page,Non-Web Libraries and Frameworks
+android-anuto,Application Software
+android-async-http,Non-Web Libraries and Frameworks
+android-backup-extractor,System Software
+android-beacon-library,Non-Web Libraries and Frameworks
+Android-BLE-Library,Non-Web Libraries and Frameworks
+android-bomber,Non-Web Libraries and Frameworks
+android-browser-helper,Web Libraries and Frameworks
+android-card-form,Web Libraries and Frameworks
+android-checkout,Non-Web Libraries and Frameworks
+android-classyshark,Software Tools
+android-database-sqlcipher,System Software
+android-demo-app,Web Libraries and Frameworks
+android-downloader,Non-Web Libraries and Frameworks
+android-fundamentals-apps-v2,Application Software
+android-gradle-java-app-template,Documentation
+android-http-server,Web Libraries and Frameworks
+Android-Image-Cropper,Non-Web Libraries and Frameworks
+Android-IMSI-Catcher-Detector,Documentation
+Android-InsecureBankv2,Documentation
+android-maps-utils,Web Libraries and Frameworks
+android-morphing-button,Web Libraries and Frameworks
+android-mvp-architecture,Non-Web Libraries and Frameworks
+android-mvp-pattern,Non-Web Libraries and Frameworks
+Android-nRF-Mesh-Library,Non-Web Libraries and Frameworks
+Android-ReactiveLocation,Web Libraries and Frameworks
+Android-RTEditor,Non-Web Libraries and Frameworks
+android-simple-tooltip,Web Libraries and Frameworks
+Android-SmartWebView,Web Libraries and Frameworks
+android-test,Web Libraries and Frameworks
+android-testdpc,System Software
+android-times-square,Web Libraries and Frameworks
+android-video-trimmer,Non-Web Libraries and Frameworks
+androidclient,Application Software
+AndroidEducationApp,Web Libraries and Frameworks
+AndroidHiddenApiBypass,Non-Web Libraries and Frameworks
+AndroidIDE,Application Software
+AndroidLocalizePlugin,Software Tools
+AndroidNavigation,Web Libraries and Frameworks
+AndroidNetworkTools,Non-Web Libraries and Frameworks
+AndroidPerformanceMonitor,Non-Web Libraries and Frameworks
+AndroidVideoCache,Non-Web Libraries and Frameworks
+android_frameworks_base,Documentation
+android_sdk,Web Libraries and Frameworks
+androrat,Application Software
+AndServer,Web Libraries and Frameworks
+AngryGhidra,System Software
+AnimatedFrames,Non-Web Libraries and Frameworks
+AnimateFX,Non-Web Libraries and Frameworks
+anserini,Documentation
+ant,Documentation
+Ant-Media-Server,Web Libraries and Frameworks
+AntennaPod,Application Software
+AnvilGUI,Non-Web Libraries and Frameworks
+AnySoftKeyboard,Application Software
+AOSPMods,Non-Web Libraries and Frameworks
+apache-calcite-tutorial,Documentation
+ApacheCamelDemo,Documentation
+api-gateway-demo-sign-java,Web Libraries and Frameworks
+apicurio-registry,Web Libraries and Frameworks
+APIKit,Web Libraries and Frameworks
+apiman,Application Software
+APKEditor,Application Software
+Apktool,Application Software
+apm-agent-java,Software Tools
+APNG4Android,Non-Web Libraries and Frameworks
+AppAuth-Android,Web Libraries and Frameworks
+AppIntroAnimation,Web Libraries and Frameworks
+appium-uiautomator2-server,System Software
+AppiumTestDistribution,Application Software
+apple-notes-liberator,System Software
+ApplicationPower,Application Software
+Applied-Energistics-2,Non-Web Libraries and Frameworks
+AppManager,Application Software
+ApprovalTests.Java,Documentation
+arangodb-java-driver,Non-Web Libraries and Frameworks
+archaius,Software Tools
+archi,Documentation
+archive-patcher,Documentation
+ArchUnit,Non-Web Libraries and Frameworks
+ArchUnit-Examples,Documentation
+Arclight,System Software
+arctic,System Software
+Arend,Software Tools
+Aria2App,Application Software
+armadillo,Non-Web Libraries and Frameworks
+armeria,Web Libraries and Frameworks
+arquillian-core,Documentation
+ArrayVisualizer,Non-Web Libraries and Frameworks
+Artemis,Application Software
+artemis-odb,Non-Web Libraries and Frameworks
+artipie,Documentation
+arx,Non-Web Libraries and Frameworks
+AsciidocFX,Documentation
+asciidoctor-maven-plugin,Documentation
+asciidoctorj,Documentation
+ASCIIGenome,Non-Web Libraries and Frameworks
+ashley,Non-Web Libraries and Frameworks
+ashot,Web Libraries and Frameworks
+aspectj,Non-Web Libraries and Frameworks
+assertj,Non-Web Libraries and Frameworks
+asterisk-java,System Software
+astyanax,Documentation
+async-http-client,Web Libraries and Frameworks
+asynchbase,Non-Web Libraries and Frameworks
+atlasdb,System Software
+ATLauncher,Application Software
+atmosphere,Web Libraries and Frameworks
+AudioAnchor,Application Software
+AudioRecorder,Application Software
+AudioVideoRecordingSample,Non-Web Libraries and Frameworks
+Auditor,Application Software
+audiveris,Application Software
+authlib-injector,Application Software
+AuthMeReloaded,Documentation
+Authorizer,Application Software
+automatic-api-attack-tool,Software Tools
+automon,Non-Web Libraries and Frameworks
+autopsy,Documentation
+aviatorscript,Documentation
+awaitility,Software Tools
+awesome-android-complete-reference,Documentation
+awesome-java-security,Documentation
+aws-athena-query-federation,Web Libraries and Frameworks
+aws-cf-templates,Documentation
+aws-eks-kubernetes-masterclass,Application Software
+aws-encryption-sdk-java,System Software
+aws-s3-virusscan,Web Libraries and Frameworks
+aws-sdk-android,Web Libraries and Frameworks
+aws-sdk-java-v2,Documentation
+aws-serverless-java-container,Web Libraries and Frameworks
+axelor-open-suite,Application Software
+AxonFramework,Application Software
+aya-dev,Documentation
+azkaban,Documentation
+azure-iot-sdk-java,Documentation
+azure-sdk-for-java,Documentation
+Backboard,Web Libraries and Frameworks
+backend,Non-Web Libraries and Frameworks
+backslash-powered-scanner,Application Software
+bahir-flink,Application Software
+banking-kata-java,Non-Web Libraries and Frameworks
+barefoot,Non-Web Libraries and Frameworks
+baritone,Non-Web Libraries and Frameworks
+basex,Application Software
+batfish,System Software
+bazel,Software Tools
+bazel-buildfarm,System Software
+bboss-elasticsearch,Non-Web Libraries and Frameworks
+bc-java,Non-Web Libraries and Frameworks
+bcrypt,Non-Web Libraries and Frameworks
+beanshell,Non-Web Libraries and Frameworks
+beanshooter,System Software
+BedrockConnect,Application Software
+bee,Non-Web Libraries and Frameworks
+benchbase,System Software
+BentoBox,Web Libraries and Frameworks
+besu,Documentation
+BetaMindy,Software Tools
+BetterBatteryStats,Software Tools
+BiglyBT,Software Tools
+BIMserver,System Software
+biojava,Application Software
+BiomesOPlenty,Non-Web Libraries and Frameworks
+birt,Software Tools
+bitcoin-wallet,Application Software
+bitcoinj,Documentation
+bitsail,System Software
+bladecoder-adventure-engine,Web Libraries and Frameworks
+blaze-persistence,Non-Web Libraries and Frameworks
+BleachHack,Application Software
+blessed-android,Web Libraries and Frameworks
+blitz4j,Documentation
+blobsaver,Software Tools
+BlockHound,Non-Web Libraries and Frameworks
+blog-code,Documentation
+BloodMagic,Documentation
+blueflood,System Software
+bluetoothviewer,Application Software
+Blurry,Web Libraries and Frameworks
+bnd,Software Tools
+BoofCV,Non-Web Libraries and Frameworks
+book-project,Web Libraries and Frameworks
+bookdash-android-app,Documentation
+bookkeeper,System Software
+bootique,Application Software
+Botania,Web Libraries and Frameworks
+BotLibre,Non-Web Libraries and Frameworks
+Box2D-for-Processing,Web Libraries and Frameworks
+braintree_android,Web Libraries and Frameworks
+brave,Non-Web Libraries and Frameworks
+brigadier,Software Tools
+Briss-2.0,Software Tools
+BroadleafCommerce,Application Software
+Broccoli,Web Libraries and Frameworks
+brooklin,Documentation
+brouter,Documentation
+browser,Application Software
+bson4jackson,Non-Web Libraries and Frameworks
+bt,Non-Web Libraries and Frameworks
+btrace,Software Tools
+bttv,Application Software
+buck,Software Tools
+bucket4j,Non-Web Libraries and Frameworks
+buckpal,Non-Web Libraries and Frameworks
+BuildCraft,Documentation
+buji-pac4j,Web Libraries and Frameworks
+Bukkit,System Software
+BungeeCord,Application Software
+Burp-Non-HTTP-Extension,System Software
+burpgpt,Application Software
+BurpSuiteSharpener,Web Libraries and Frameworks
+Burpy,Software Tools
+butterknife,Non-Web Libraries and Frameworks
+bxbot,Application Software
+byte-buddy,Non-Web Libraries and Frameworks
+bytecode-viewer,Application Software
+Bytecoder,Non-Web Libraries and Frameworks
+bytekit,Non-Web Libraries and Frameworks
+byteman,Documentation
+C2ME-fabric,Software Tools
+cache2k,Non-Web Libraries and Frameworks
+cactoos,Non-Web Libraries and Frameworks
+caffeine,Non-Web Libraries and Frameworks
+calcite,System Software
+calcite-avatica,System Software
+californium,System Software
+caliper,Non-Web Libraries and Frameworks
+camel,Web Libraries and Frameworks
+camel-idea-plugin,Web Libraries and Frameworks
+camellia,Non-Web Libraries and Frameworks
+CameraView,Non-Web Libraries and Frameworks
+camunda-bpm-platform,System Software
+canvas,Non-Web Libraries and Frameworks
+cardboard,Web Libraries and Frameworks
+CardStackView,Web Libraries and Frameworks
+carina,Application Software
+cas,Documentation
+cassandra,Documentation
+cassandre-trading-bot,Software Tools
+castlemock,Web Libraries and Frameworks
+Catroid,Documentation
+cats,Documentation
+causeway,Documentation
+cayenne,Documentation
+cbioportal,Application Software
+cdap,Documentation
+centraldogma,System Software
+cglib,Non-Web Libraries and Frameworks
+ChangeSkin,Non-Web Libraries and Frameworks
+chaos-monkey-spring-boot,Documentation
+charts,Non-Web Libraries and Frameworks
+chat-sdk-android,Web Libraries and Frameworks
+ChatGPT,Software Tools
+chatty,Application Software
+checker-framework,Documentation
+checkstyle-idea,Software Tools
+Chisels-and-Bits,Non-Web Libraries and Frameworks
+choco-solver,Software Tools
+Chronicle-Bytes,Documentation
+Chronicle-Core,Documentation
+Chronicle-Map,Documentation
+Chronicle-Queue,Documentation
+chronos,System Software
+chunjun,Web Libraries and Frameworks
+chunky,Documentation
+Circle-Progress-View,Non-Web Libraries and Frameworks
+CircleRecyclerView,Web Libraries and Frameworks
+circular-music-progressbar,Non-Web Libraries and Frameworks
+Citizens2,Application Software
+citrus,Documentation
+clarity,Non-Web Libraries and Frameworks
+classgraph,Non-Web Libraries and Frameworks
+classloader-leak-prevention,Web Libraries and Frameworks
+cldr,Documentation
+clickhouse-java,Non-Web Libraries and Frameworks
+ClickHouse-Native-JDBC,Web Libraries and Frameworks
+client,Non-Web Libraries and Frameworks
+clientcommands,Software Tools
+client_java,Web Libraries and Frameworks
+closure-templates,Web Libraries and Frameworks
+cloudsim,System Software
+cloudwatch_exporter,Web Libraries and Frameworks
+Cobalt,Web Libraries and Frameworks
+CoCoin,Application Software
+CodeAssist,Application Software
+CodenameOne,Web Libraries and Frameworks
+coffee-gb,System Software
+cognitivej,Web Libraries and Frameworks
+Cognizant_Early_Engagement,Application Software
+coherence,System Software
+COLA,Documentation
+color-oracle-java,Documentation
+ColorPickerView,Web Libraries and Frameworks
+cometd,Web Libraries and Frameworks
+commands,Documentation
+commonmark-java,Non-Web Libraries and Frameworks
+commons-cli,Software Tools
+commons-codec,Non-Web Libraries and Frameworks
+commons-compress,Non-Web Libraries and Frameworks
+commons-fileupload,Non-Web Libraries and Frameworks
+commons-imaging,Software Tools
+commons-io,Documentation
+commons-lang,Software Tools
+commons-math,Non-Web Libraries and Frameworks
+commons-pool,Software Tools
+commons-text,Software Tools
+commons-vfs,Software Tools
+compass,Application Software
+compile-testing,Non-Web Libraries and Frameworks
+completable-futures,Non-Web Libraries and Frameworks
+concurrency-limits,Application Software
+Configurate,Non-Web Libraries and Frameworks
+configuration-as-code-plugin,Software Tools
+conjure,Software Tools
+connect,Application Software
+connectbot,Application Software
+conscrypt,Non-Web Libraries and Frameworks
+constellation,Application Software
+constraintlayout,Web Libraries and Frameworks
+consulo,Software Tools
+context-mapper-dsl,Application Software
+controlsfx,Non-Web Libraries and Frameworks
+coordinators,Non-Web Libraries and Frameworks
+copybara,Software Tools
+coral,Non-Web Libraries and Frameworks
+core,System Software
+Core-Framework,Web Libraries and Frameworks
+CoreNLP,Non-Web Libraries and Frameworks
+CorePatch,Web Libraries and Frameworks
+CorfuDB,System Software
+corretto-11,System Software
+corretto-8,System Software
+countly-sdk-android,Web Libraries and Frameworks
+CountryCodePickerProject,Web Libraries and Frameworks
+CraftBook,Non-Web Libraries and Frameworks
+crate,Documentation
+Create,Non-Web Libraries and Frameworks
+cron-utils,Non-Web Libraries and Frameworks
+cruise-control,Web Libraries and Frameworks
+cryptomator,Non-Web Libraries and Frameworks
+cs-study-for-interview,Documentation
+css-validator,Documentation
+cuba,Web Libraries and Frameworks
+cucumber-eclipse,Non-Web Libraries and Frameworks
+cucumber-jvm,Documentation
+cucumber-reporting,Documentation
+curator,Non-Web Libraries and Frameworks
+curso-especialista-spring-rest,Application Software
+cwa-server,Web Libraries and Frameworks
+cwa-verification-server,System Software
+cxf,Web Libraries and Frameworks
+cyberduck,Application Software
+cyclops,Non-Web Libraries and Frameworks
+cyclops-integration,Non-Web Libraries and Frameworks
+Dali,Non-Web Libraries and Frameworks
+darklaf,Non-Web Libraries and Frameworks
+dashbuilder,Documentation
+Dashchan,Documentation
+data-algorithms-book,Documentation
+data-transfer-project,System Software
+database,Web Libraries and Frameworks
+database-all,Non-Web Libraries and Frameworks
+database-rider,Documentation
+databus,System Software
+datafaker,Non-Web Libraries and Frameworks
+DataFixerUpper,Non-Web Libraries and Frameworks
+DataflowTemplates,Web Libraries and Frameworks
+dataloader,Documentation
+DataMonitor,Application Software
+datashare,Application Software
+datasketches-java,Non-Web Libraries and Frameworks
+datasource-proxy,Non-Web Libraries and Frameworks
+DataSphereStudio,Application Software
+dataverse,Documentation
+datawave,Documentation
+davmail,Software Tools
+db-scheduler,Application Software
+dbeaver,Application Software
+dble,System Software
+dddlib,Non-Web Libraries and Frameworks
+dddsample-core,Application Software
+De-Bloater,Application Software
+debezium,Application Software
+decaton,System Software
+decoro,Non-Web Libraries and Frameworks
+deephaven-core,System Software
+deeplearning4j-examples,Documentation
+dekorate,Web Libraries and Frameworks
+delverengine,Application Software
+dempsy,Documentation
+denominator,Web Libraries and Frameworks
+deobfuscator,Software Tools
+dependency-check-sonar-plugin,Software Tools
+dependency-management-plugin,Software Tools
+dependency-track,System Software
+depgraph-maven-plugin,Software Tools
+desafio-poo-dio,Documentation
+Destination-FAANG-Java-Solution,Documentation
+desugar_jdk_libs,Non-Web Libraries and Frameworks
+dev-tools,Software Tools
+dicoogle,Application Software
+Dictionary,Documentation
+digdag,Documentation
+Digital,Application Software
+directories-jvm,Non-Web Libraries and Frameworks
+dirigiste,Software Tools
+Discord-Audio-Stream-Bot,Application Software
+discord-rpc,Web Libraries and Frameworks
+Discord4J,Web Libraries and Frameworks
+DiscordSRV,Documentation
+disjob,Application Software
+disruptor,Non-Web Libraries and Frameworks
+distributedlog,System Software
+ditto,Web Libraries and Frameworks
+diva-android,Application Software
+djl,Non-Web Libraries and Frameworks
+dk.brics.automaton,Non-Web Libraries and Frameworks
+dledger,Non-Web Libraries and Frameworks
+dns-java,Non-Web Libraries and Frameworks
+dns-proxy-server,System Software
+dnsjava,Documentation
+docker-build-publish-plugin,Application Software
+docker-compose-rule,Web Libraries and Frameworks
+docker-java,Non-Web Libraries and Frameworks
+docker-maven-plugin,Software Tools
+docker-plugin,System Software
+docker-workflow-plugin,System Software
+docx4j,Application Software
+dolphinscheduler,Application Software
+dom4j,Non-Web Libraries and Frameworks
+doma,Non-Web Libraries and Frameworks
+dominion-ecs-java,Non-Web Libraries and Frameworks
+DongTai-agent-java,System Software
+doodle-android,Web Libraries and Frameworks
+dotenv-java,Documentation
+download-navi,Software Tools
+dozer,Non-Web Libraries and Frameworks
+Draconic-Evolution,Non-Web Libraries and Frameworks
+DragListView,Non-Web Libraries and Frameworks
+dragonwell11,System Software
+dragonwell8,System Software
+dremio-oss,Documentation
+drill,System Software
+DrivenByMoss,System Software
+droidVNC-NG,Non-Web Libraries and Frameworks
+drools,System Software
+dropbox-sdk-java,Documentation
+dropwizard,Web Libraries and Frameworks
+DRouter,Non-Web Libraries and Frameworks
+druid,System Software
+druidry,Non-Web Libraries and Frameworks
+dsl,Documentation
+dsl-json,Non-Web Libraries and Frameworks
+dslabs,System Software
+DSpace,Documentation
+dss,Web Libraries and Frameworks
+dubbo,Web Libraries and Frameworks
+dubbo-rpc-jsonrpc,Web Libraries and Frameworks
+dubbo-samples,Application Software
+dynamic-datasource-samples,Application Software
+Dynamic-FPS,Non-Web Libraries and Frameworks
+DynamicTrees,Non-Web Libraries and Frameworks
+dynmap,Web Libraries and Frameworks
+dyno,System Software
+easeagent,System Software
+Easer,Documentation
+easeui,Web Libraries and Frameworks
+easy-batch,Non-Web Libraries and Frameworks
+easy-es,Non-Web Libraries and Frameworks
+easy-flows,Software Tools
+easy-random,Non-Web Libraries and Frameworks
+easypermissions,Application Software
+ebean,Non-Web Libraries and Frameworks
+ec2-plugin,Application Software
+eclipse.jdt.ls,System Software
+EclipseCodeFormatter,Documentation
+edisyn,Documentation
+editor,Application Software
+EFAK,System Software
+egads,Non-Web Libraries and Frameworks
+egeria,Documentation
+ehcache3,Documentation
+ejml,Non-Web Libraries and Frameworks
+elasticsearch,Documentation
+elasticsearch-analysis-ansj,Web Libraries and Frameworks
+elasticsearch-analysis-ik,Web Libraries and Frameworks
+elasticsearch-analysis-pinyin,Web Libraries and Frameworks
+elasticsearch-analysis-vietnamese,Web Libraries and Frameworks
+elasticsearch-java,Web Libraries and Frameworks
+elasticsearch-learning-to-rank,Web Libraries and Frameworks
+elasticsearch-prometheus-exporter,System Software
+elasticsearch-sql,Web Libraries and Frameworks
+elide,Web Libraries and Frameworks
+elk,Documentation
+elki,Non-Web Libraries and Frameworks
+embulk,Software Tools
+emoji-java,Non-Web Libraries and Frameworks
+Emoticons-Keyboard,Application Software
+EMV-NFC-Paycard-Enrollment,Non-Web Libraries and Frameworks
+EnchantmentCracker,Application Software
+encog-java-core,Non-Web Libraries and Frameworks
+engine.io-client-java,Non-Web Libraries and Frameworks
+Enigma,Non-Web Libraries and Frameworks
+EntityCulling,Non-Web Libraries and Frameworks
+enunciate,Documentation
+epic,Non-Web Libraries and Frameworks
+eql,Documentation
+equalsverifier,Non-Web Libraries and Frameworks
+error-prone,Non-Web Libraries and Frameworks
+esapi-java-legacy,Web Libraries and Frameworks
+ESCPOS-ThermalPrinter-Android,Non-Web Libraries and Frameworks
+esper,Non-Web Libraries and Frameworks
+EspExceptionDecoder,Software Tools
+esProc,Non-Web Libraries and Frameworks
+Essentials,System Software
+Etar-Calendar,Application Software
+eureka,Documentation
+EvalEx,Non-Web Libraries and Frameworks
+EVCache,System Software
+event-ruler,Non-Web Libraries and Frameworks
+event-sourcing-cqrs-examples,Non-Web Libraries and Frameworks
+EventBus,Web Libraries and Frameworks
+eventmesh,Web Libraries and Frameworks
+EventSourcing.JVM,Documentation
+eventuate-examples-java-customers-and-orders,Application Software
+eventuate-examples-java-spring-todo-list,Web Libraries and Frameworks
+eventuate-tram-core,Documentation
+eventuate-tram-sagas,Documentation
+eventuate-tram-sagas-examples-customers-and-orders,Documentation
+evernote-sdk-android,Application Software
+evosuite,Software Tools
+ews-java-api,Documentation
+excel-streaming-reader,Non-Web Libraries and Frameworks
+Exchangis,Documentation
+exist,Application Software
+ExoPlayer,Web Libraries and Frameworks
+ExoPlayerFilter,Web Libraries and Frameworks
+expiringmap,Non-Web Libraries and Frameworks
+extentreports-java,Documentation
+ez-vcard,Non-Web Libraries and Frameworks
+ezyfox-server,Web Libraries and Frameworks
+FAANG,Documentation
+FABRevealMenu-master,Web Libraries and Frameworks
+fabric,Software Tools
+Fabric-Bedrock-Miner,Application Software
+fabric-carpet,Web Libraries and Frameworks
+fabric-chaincode-java,System Software
+fabric-example-mod,Documentation
+fabric-gateway-java,Web Libraries and Frameworks
+fabric-loader,Non-Web Libraries and Frameworks
+fabric-sdk-java,Web Libraries and Frameworks
+Face-Liveness-Detection-SDK-Android,Web Libraries and Frameworks
+facebook-java-business-sdk,Non-Web Libraries and Frameworks
+face_recognition,Application Software
+failsafe,Non-Web Libraries and Frameworks
+FakeStandby,Application Software
+fast-serialization,Non-Web Libraries and Frameworks
+FastAsyncWorldEdit,Web Libraries and Frameworks
+FastCSV,Non-Web Libraries and Frameworks
+fastexcel,Non-Web Libraries and Frameworks
+fastjson,Non-Web Libraries and Frameworks
+fastjson2,Non-Web Libraries and Frameworks
+fastnfitness,Application Software
+feign,Web Libraries and Frameworks
+feign-form,Software Tools
+Fenzo,System Software
+Fermata,Application Software
+fernflower,Documentation
+fess,System Software
+ffmpeg-cli-wrapper,Non-Web Libraries and Frameworks
+FHIR,System Software
+find-sec-bugs,Documentation
+fineract,Application Software
+finmath-lib,Non-Web Libraries and Frameworks
+firebase-admin-java,Web Libraries and Frameworks
+FirebaseUI-Android,Web Libraries and Frameworks
+firefly,Web Libraries and Frameworks
+firehose,Web Libraries and Frameworks
+FishingBot,Application Software
+fixture-factory,Non-Web Libraries and Frameworks
+fixture-monkey,Non-Web Libraries and Frameworks
+FlatLaf,Application Software
+FlexibleAdapter,Web Libraries and Frameworks
+flexmark-java,Non-Web Libraries and Frameworks
+flink,Web Libraries and Frameworks
+flink-cdc-connectors,Web Libraries and Frameworks
+flink-kubernetes-operator,System Software
+flink-statefun,Application Software
+flink-training,Documentation
+flogger,Non-Web Libraries and Frameworks
+Floodgate,Documentation
+flow,Web Libraries and Frameworks
+flow-core-x,Software Tools
+flowable-engine,System Software
+flowable-examples,Documentation
+FlowDroid,Software Tools
+FlowTextView,Non-Web Libraries and Frameworks
+fluent-mybatis,Non-Web Libraries and Frameworks
+FluentLenium,Web Libraries and Frameworks
+flume,System Software
+flutter-intellij,Web Libraries and Frameworks
+flyway,Software Tools
+fmt-maven-plugin,Software Tools
+fofa_viewer,Application Software
+forbidden-apis,Software Tools
+forest,Non-Web Libraries and Frameworks
+ForestryMC,Non-Web Libraries and Frameworks
+ForgeEssentials,System Software
+ForgeGradle,Software Tools
+FoxMagiskModuleManager,Non-Web Libraries and Frameworks
+fractureiser,Documentation
+framework,Web Libraries and Frameworks
+fraud-detection-demo,Software Tools
+fred,System Software
+freecol,Application Software
+freedomotic,Application Software
+freej2me,Application Software
+freemarker,Documentation
+freeotp-android,Application Software
+freeplane,Application Software
+freerouting,System Software
+fresco,Non-Web Libraries and Frameworks
+friendly-id,Non-Web Libraries and Frameworks
+frontend-maven-plugin,Web Libraries and Frameworks
+frostwire,Documentation
+fscrawler,System Software
+ftgo-application,Documentation
+fucking-java-concurrency,Non-Web Libraries and Frameworks
+functionaljava,Documentation
+FutureRestore-GUI,Application Software
+FXGLGames,Non-Web Libraries and Frameworks
+Gadgetbridge,Non-Web Libraries and Frameworks
+Gaffer,Non-Web Libraries and Frameworks
+Galacticraft,Non-Web Libraries and Frameworks
+gama,System Software
+GAppsMod,Application Software
+gaslight,Documentation
+gatk,Documentation
+gc-opencommand-plugin,Application Software
+gctoolkit,Non-Web Libraries and Frameworks
+GCViewer,System Software
+geckolib,Non-Web Libraries and Frameworks
+gelli,Application Software
+generator,Non-Web Libraries and Frameworks
+geo,Non-Web Libraries and Frameworks
+geode,System Software
+geogebra,Web Libraries and Frameworks
+GeoIP2-java,Non-Web Libraries and Frameworks
+GeometricWeather,Application Software
+geoserver,System Software
+geotools,Web Libraries and Frameworks
+geowave,Web Libraries and Frameworks
+gephi,Web Libraries and Frameworks
+gerrit-intellij-plugin,Documentation
+getting-started-java,Web Libraries and Frameworks
+Geyser,Web Libraries and Frameworks
+gh4a,Application Software
+ghidra,System Software
+Ghidra-Cpp-Class-Analyzer,Non-Web Libraries and Frameworks
+Ghidra-GameCube-Loader,System Software
+ghidra_psx_ldr,System Software
+ghprb-plugin,Documentation
+gifencoder,Non-Web Libraries and Frameworks
+git-commit-id-maven-plugin,Software Tools
+git-plugin,Documentation
+gitblit,Documentation
+gitflow-maven-plugin,Software Tools
+github-api,Documentation
+github-branch-source-plugin,Documentation
+github-plugin,Application Software
+gitlab-plugin,System Software
+gitlab4j-api,Software Tools
+GiveawayBot,Web Libraries and Frameworks
+glide,Web Libraries and Frameworks
+GlobalPlatformPro,Software Tools
+glowroot,System Software
+Glowstone,Documentation
+gnucash-android,Application Software
+gobblin,System Software
+google-auth-library-java,Non-Web Libraries and Frameworks
+google-cloud-java,Non-Web Libraries and Frameworks
+google-drive-ftp-adapter,Web Libraries and Frameworks
+google-http-java-client,Non-Web Libraries and Frameworks
+google-maps-services-java,Web Libraries and Frameworks
+google-oauth-java-client,Non-Web Libraries and Frameworks
+governator,Non-Web Libraries and Frameworks
+gpslogger,Application Software
+graal,System Software
+gradle-aws-plugin,Application Software
+gradle-baseline,Software Tools
+gradle-download-task,Software Tools
+grafika,Application Software
+grakkit,Web Libraries and Frameworks
+Grammar-Kit,Software Tools
+graph-data-science,Documentation
+graphhopper,Web Libraries and Frameworks
+GraphJet,Non-Web Libraries and Frameworks
+graphql-java-annotations,Web Libraries and Frameworks
+graphql-spqr,Non-Web Libraries and Frameworks
+graphviz-java,Non-Web Libraries and Frameworks
+graphwalker-project,Documentation
+greenmail,Software Tools
+GrepConsole,Documentation
+Grim,Application Software
+grocy-android,Application Software
+GrokkingAlgorithms,Non-Web Libraries and Frameworks
+groovy-eclipse,Software Tools
+grpc-java,Web Libraries and Frameworks
+grpc-spring-boot-starter,Web Libraries and Frameworks
+gs-batch-processing,Documentation
+gs-rest-service,Documentation
+gs-spring-boot,Documentation
+gs-spring-boot-docker,Documentation
+gs-uploading-files,Documentation
+gson,Non-Web Libraries and Frameworks
+gtfs-validator,Application Software
+guava,Non-Web Libraries and Frameworks
+guava-retrying,Non-Web Libraries and Frameworks
+guice,Non-Web Libraries and Frameworks
+gumtree,Non-Web Libraries and Frameworks
+gwt,Web Libraries and Frameworks
+h2database,System Software
+HackerRank_solutions,Documentation
+hadoop,Documentation
+hadoop-connectors,Web Libraries and Frameworks
+HaloDB,Non-Web Libraries and Frameworks
+hapi-fhir,Application Software
+hapi-fhir-jpaserver-starter,Web Libraries and Frameworks
+happy-dns-android,Non-Web Libraries and Frameworks
+Harmonic-HN,Application Software
+haveno,Web Libraries and Frameworks
+hawkbit,System Software
+hawking,Documentation
+hawtio,Web Libraries and Frameworks
+hazelcast,Documentation
+hazelcast-code-samples,Documentation
+hazelcast-jet,Web Libraries and Frameworks
+hbase,System Software
+HdrHistogram,Non-Web Libraries and Frameworks
+hedera-sdk-java,Web Libraries and Frameworks
+helidon,Documentation
+helix,System Software
+hello-world,Software Tools
+herddb,System Software
+heritrix3,Documentation
+hermes,Web Libraries and Frameworks
+heros,Non-Web Libraries and Frameworks
+hetu-core,Web Libraries and Frameworks
+hibernate-orm,Documentation
+hibernate-reactive,Web Libraries and Frameworks
+hibernate-search,Web Libraries and Frameworks
+hibernate-tools,Non-Web Libraries and Frameworks
+hibernate-validator,Non-Web Libraries and Frameworks
+high-performance-java-persistence,Software Tools
+HikariCP,Non-Web Libraries and Frameworks
+HikariJSON,Non-Web Libraries and Frameworks
+hive,System Software
+hivemq-community-edition,Documentation
+hivemq-mqtt-client,Web Libraries and Frameworks
+HMCL,Application Software
+hms-react-native-plugin,Web Libraries and Frameworks
+HokoBlur,Web Libraries and Frameworks
+hollow,Non-Web Libraries and Frameworks
+HomeMirror,Application Software
+honest-profiler,Software Tools
+hop,System Software
+hops,System Software
+HotswapAgent,System Software
+hpack,Non-Web Libraries and Frameworks
+HTTP-Proxy-Servlet,Web Libraries and Frameworks
+http-request-smuggler,Software Tools
+http-script-generator,Software Tools
+httpcomponents-client,System Software
+hudi,System Software
+hutool,Non-Web Libraries and Frameworks
+hwplib,Non-Web Libraries and Frameworks
+Hyperion-Android,Application Software
+HyperLap2D,Web Libraries and Frameworks
+hypersistence-utils,Non-Web Libraries and Frameworks
+hyscale,Web Libraries and Frameworks
+Hystrix,System Software
+i18n-editor,Documentation
+i2p.i2p,System Software
+IBC,Application Software
+icafe,Non-Web Libraries and Frameworks
+ical4j,Non-Web Libraries and Frameworks
+iceberg,Documentation
+IcedTea-Web,Web Libraries and Frameworks
+Iconify,Application Software
+idea-php-symfony2-plugin,Software Tools
+idempiere,Application Software
+IF,Non-Web Libraries and Frameworks
+ignite,System Software
+IIS-ShortName-Scanner,System Software
+IJava,Web Libraries and Frameworks
+Images-to-PDF,Application Software
+imglib2,Non-Web Libraries and Frameworks
+imgui-java,Non-Web Libraries and Frameworks
+imixs-workflow,Web Libraries and Frameworks
+ImmersiveEngineering,Non-Web Libraries and Frameworks
+ImmersivePortalsMod,Web Libraries and Frameworks
+inception,Application Software
+incubator-baremaps,Web Libraries and Frameworks
+incubator-hugegraph,Non-Web Libraries and Frameworks
+incubator-paimon,Documentation
+infinispan,Web Libraries and Frameworks
+infinitest,Software Tools
+Infinity-For-Reddit,Application Software
+influxdb-client-java,Web Libraries and Frameworks
+influxdb-java,Web Libraries and Frameworks
+initializr,Documentation
+inlong,System Software
+inspectit-ocelot,System Software
+instagram-java-scraper,Non-Web Libraries and Frameworks
+instagram4j,Web Libraries and Frameworks
+instancio,Non-Web Libraries and Frameworks
+intellij,Software Tools
+intellij-csv-validator,Software Tools
+IntelliJ-Key-Promoter-X,Software Tools
+intellij-plugin-save-actions,Software Tools
+intellij-postfix-templates,Software Tools
+intellij-sdk-code-samples,Software Tools
+intellij-sdk-docs,Documentation
+intellij-swagger,Software Tools
+Intro-to-Java-Programming,Documentation
+ion-java,Non-Web Libraries and Frameworks
+iotdb,Non-Web Libraries and Frameworks
+IPAddress,Non-Web Libraries and Frameworks
+IPED,System Software
+ipscan,System Software
+Iris,Non-Web Libraries and Frameworks
+itext7,Non-Web Libraries and Frameworks
+itextpdf,Documentation
+j-mc-2-obj,Non-Web Libraries and Frameworks
+j2cl,Non-Web Libraries and Frameworks
+J2EEScan,Application Software
+J2ME-Loader,Non-Web Libraries and Frameworks
+j2objc,Non-Web Libraries and Frameworks
+jabel,Non-Web Libraries and Frameworks
+jabref,Application Software
+jackhammer,Application Software
+jackrabbit-oak,Web Libraries and Frameworks
+jackson-annotations,Non-Web Libraries and Frameworks
+jackson-core,Non-Web Libraries and Frameworks
+jackson-databind,Non-Web Libraries and Frameworks
+jackson-dataformat-xml,Non-Web Libraries and Frameworks
+jackson-dataformats-binary,Non-Web Libraries and Frameworks
+jackson-dataformats-text,Non-Web Libraries and Frameworks
+jackson-datatype-hibernate,Non-Web Libraries and Frameworks
+jackson-modules-java8,Non-Web Libraries and Frameworks
+jacoco,Documentation
+jadx,Documentation
+Jailer,Application Software
+james-project,Documentation
+jamm,System Software
+jandex,Non-Web Libraries and Frameworks
+janino,Documentation
+janusgraph,Documentation
+jasperreports,Web Libraries and Frameworks
+jasypt-spring-boot,Application Software
+Java,Non-Web Libraries and Frameworks
+java-all-call-graph,Documentation
+java-cas-client,Application Software
+java-client,Web Libraries and Frameworks
+java-dataloader,Non-Web Libraries and Frameworks
+java-diff-utils,Non-Web Libraries and Frameworks
+java-docs-samples,Documentation
+java-driver,Non-Web Libraries and Frameworks
+Java-DSA,Documentation
+java-fundamentals-exercises,Documentation
+java-ipfs-http-client,Non-Web Libraries and Frameworks
+java-json-benchmark,Non-Web Libraries and Frameworks
+java-jwt,Non-Web Libraries and Frameworks
+java-koans,Non-Web Libraries and Frameworks
+java-language-server,Software Tools
+java-memcached-client,Documentation
+java-operator-sdk,System Software
+Java-Runtime-Compiler,Documentation
+java-saml,Non-Web Libraries and Frameworks
+java-samples,Web Libraries and Frameworks
+java-sdk,Application Software
+Java-SE,Documentation
+java-sec-code,Non-Web Libraries and Frameworks
+java-slack-sdk,Web Libraries and Frameworks
+Java-Solutions-TCS-Xplore-Proctored-Assessment,Documentation
+java-swing-tips,Non-Web Libraries and Frameworks
+java-telegram-bot-api,Non-Web Libraries and Frameworks
+Java-Thread-Affinity,Documentation
+java-uuid-generator,Non-Web Libraries and Frameworks
+Java-week-LinuxTips,Documentation
+java-wkhtmltopdf-wrapper,Documentation
+java4noobs,Documentation
+javacc,Documentation
+Javacord,Application Software
+javacpp,Non-Web Libraries and Frameworks
+javacpp-presets,Non-Web Libraries and Frameworks
+javacv,Non-Web Libraries and Frameworks
+javadbf,Non-Web Libraries and Frameworks
+JavaFXSmartGraph,Non-Web Libraries and Frameworks
+JavaHamcrest,Non-Web Libraries and Frameworks
+javamelody,Documentation
+JavaPackager,Software Tools
+javaparser,Non-Web Libraries and Frameworks
+javapoet,Non-Web Libraries and Frameworks
+JavaReedSolomon,Non-Web Libraries and Frameworks
+JavaSec,Documentation
+javassist,Non-Web Libraries and Frameworks
+java_8_recipes,Software Tools
+Java_NFe,Web Libraries and Frameworks
+Javet,Documentation
+Jax-RS-Performance-Comparison,Documentation
+jbang,Documentation
+jbpm,Application Software
+jcabi-github,Documentation
+jcasbin,Non-Web Libraries and Frameworks
+jcifs-ng,Non-Web Libraries and Frameworks
+JCloisterZone,Non-Web Libraries and Frameworks
+jcommander,Documentation
+jcseg,Non-Web Libraries and Frameworks
+jd-core,Non-Web Libraries and Frameworks
+JDA,Web Libraries and Frameworks
+JDA,Web Libraries and Frameworks
+jdbi,Non-Web Libraries and Frameworks
+jdk,Documentation
+JDKMon,Non-Web Libraries and Frameworks
+jeddict,Software Tools
+jedis,Non-Web Libraries and Frameworks
+jediterm,System Software
+jena,Non-Web Libraries and Frameworks
+jenetics,Non-Web Libraries and Frameworks
+jenkins,Documentation
+jenkinsfile-runner,Documentation
+jeromq,Non-Web Libraries and Frameworks
+jersey,Web Libraries and Frameworks
+jesque,Software Tools
+Jest,Non-Web Libraries and Frameworks
+jetbrains-wakatime,Software Tools
+JetBrainsRuntime,Documentation
+jetcache,Non-Web Libraries and Frameworks
+jetcd,Non-Web Libraries and Frameworks
+jetty.project,Web Libraries and Frameworks
+JetUML,Application Software
+jfinal,Web Libraries and Frameworks
+jflex,Software Tools
+jfreechart,Non-Web Libraries and Frameworks
+jfrunit,Non-Web Libraries and Frameworks
+jgit-cookbook,Software Tools
+JGroups,Documentation
+jib,Software Tools
+jig,Documentation
+jigasi,System Software
+JImageHash,Non-Web Libraries and Frameworks
+jimfs,Non-Web Libraries and Frameworks
+jira-client,Non-Web Libraries and Frameworks
+jitsi,Documentation
+jivejdon,Application Software
+JJazzLab-X,Non-Web Libraries and Frameworks
+jkube,Software Tools
+jline3,Non-Web Libraries and Frameworks
+jmc,System Software
+jMetal,Documentation
+jmeter,System Software
+jmeter-java-dsl,Software Tools
+jmeter-maven-plugin,Software Tools
+jmeter-plugins,Web Libraries and Frameworks
+jmh,Software Tools
+jmix,Web Libraries and Frameworks
+jmolecules,Documentation
+jmonkeyengine,Non-Web Libraries and Frameworks
+jmx_exporter,System Software
+jna,Non-Web Libraries and Frameworks
+JNDI-Injection-Exploit-Plus,Software Tools
+jnosql,Documentation
+jnr-ffi,System Software
+joal,Web Libraries and Frameworks
+jobrunr,Web Libraries and Frameworks
+joda-time,Non-Web Libraries and Frameworks
+joda-time-android,Non-Web Libraries and Frameworks
+joinfaces,Web Libraries and Frameworks
+jol,System Software
+jolie,Documentation
+jolokia,System Software
+jolt,Non-Web Libraries and Frameworks
+JOML,Non-Web Libraries and Frameworks
+jongo,Documentation
+jooby,Web Libraries and Frameworks
+jOOQ,Non-Web Libraries and Frameworks
+jOOX,Non-Web Libraries and Frameworks
+josm,Documentation
+jpa-entity-generator,Non-Web Libraries and Frameworks
+jpetstore-6,Web Libraries and Frameworks
+jpexs-decompiler,Software Tools
+jpf-core,Documentation
+jpmml-sklearn,Non-Web Libraries and Frameworks
+jPOS,Application Software
+JQF,Non-Web Libraries and Frameworks
+jqwik,Non-Web Libraries and Frameworks
+jreleaser,Documentation
+js-graphql-intellij-plugin,Web Libraries and Frameworks
+jsch,Non-Web Libraries and Frameworks
+JSCover,Software Tools
+jslt,Non-Web Libraries and Frameworks
+JSON-java,Non-Web Libraries and Frameworks
+json-schema,Non-Web Libraries and Frameworks
+json-schema-validator,Web Libraries and Frameworks
+json-simple,Documentation
+JSONassert,Non-Web Libraries and Frameworks
+jsondb-core,Non-Web Libraries and Frameworks
+JsonPath,Non-Web Libraries and Frameworks
+jsonrpc4j,Non-Web Libraries and Frameworks
+jsonschema2pojo,Software Tools
+JsonSurfer,Non-Web Libraries and Frameworks
+JsonUnit,Non-Web Libraries and Frameworks
+jsoup,Web Libraries and Frameworks
+jspecify,Non-Web Libraries and Frameworks
+JSqlParser,Documentation
+jsr354-ri,Non-Web Libraries and Frameworks
+jsyn,Non-Web Libraries and Frameworks
+jte,Non-Web Libraries and Frameworks
+jts,Non-Web Libraries and Frameworks
+Juicebox,System Software
+julie,System Software
+junit-pioneer,Documentation
+junit-quickcheck,Non-Web Libraries and Frameworks
+junit4,Software Tools
+junit5,Documentation
+JUnitIn28Minutes,Software Tools
+junixsocket,Non-Web Libraries and Frameworks
+JustEnoughItems,Non-Web Libraries and Frameworks
+jvm-sandbox,Non-Web Libraries and Frameworks
+jvm-tools,Software Tools
+JWebAssembly,Web Libraries and Frameworks
+JWildfire,Non-Web Libraries and Frameworks
+jxls,Non-Web Libraries and Frameworks
+jzlib,Documentation
+kafdrop,Web Libraries and Frameworks
+kafka,System Software
+kafka-beginners-course,Web Libraries and Frameworks
+kafka-connect-elasticsearch,Non-Web Libraries and Frameworks
+kafka-connect-file-pulse,Web Libraries and Frameworks
+kafka-connect-github-source,Web Libraries and Frameworks
+kafka-connect-hdfs,Web Libraries and Frameworks
+kafka-connect-jdbc,System Software
+kafka-gitops,Web Libraries and Frameworks
+kafka-lab,Documentation
+kafka-monitor,System Software
+kafka-rest,Web Libraries and Frameworks
+kafka-streams-examples,Web Libraries and Frameworks
+kairosdb,System Software
+karaf,System Software
+karate,Software Tools
+kareldb,System Software
+karyon,Software Tools
+kayenta,Application Software
+kcctl,Documentation
+kdeconnect-android,Web Libraries and Frameworks
+keycloak,Web Libraries and Frameworks
+keycloak-config-cli,System Software
+keycloak-user-migration,Web Libraries and Frameworks
+keystore-explorer,Application Software
+keywhiz,Software Tools
+killbill,Application Software
+Killergram,Non-Web Libraries and Frameworks
+KISS,Application Software
+kkFileView,Web Libraries and Frameworks
+knime-core,Application Software
+kogito-runtimes,Documentation
+KonaBess,System Software
+Kore,Application Software
+ksql,System Software
+kubernetes-client,Web Libraries and Frameworks
+kubernetes-plugin,System Software
+kura,System Software
+LagMonitor,Application Software
+lambda,Non-Web Libraries and Frameworks
+LambDynamicLights,Non-Web Libraries and Frameworks
+languagetool,Documentation
+Launcher,Non-Web Libraries and Frameworks
+lavaplayer,Non-Web Libraries and Frameworks
+lawnchair,Application Software
+layrry,Documentation
+LeafPic,Application Software
+Leetcode,Documentation
+leetcode-editor,Software Tools
+LeetCode-Java-Solutions,Documentation
+lemongrenade,System Software
+leshan,System Software
+lettuce-core,Non-Web Libraries and Frameworks
+LGame,Non-Web Libraries and Frameworks
+libjitsi,Non-Web Libraries and Frameworks
+libphonenumber-android,Non-Web Libraries and Frameworks
+library,System Software
+librec,Non-Web Libraries and Frameworks
+libretorrent,Application Software
+libsignal-service-java,Web Libraries and Frameworks
+libsu,Non-Web Libraries and Frameworks
+License3j,Documentation
+LicensesDialog,Software Tools
+liferay-portal,Documentation
+light-4j,Web Libraries and Frameworks
+light-oauth2,Web Libraries and Frameworks
+lightcycle,Web Libraries and Frameworks
+liliths-throne-public,Non-Web Libraries and Frameworks
+Limbo,Application Software
+line-bot-sdk-java,Web Libraries and Frameworks
+line-fido2-server,Web Libraries and Frameworks
+linstor-server,System Software
+liquibase,System Software
+liteflow,Application Software
+litematica,Non-Web Libraries and Frameworks
+lithium-fabric,Non-Web Libraries and Frameworks
+litiengine,Web Libraries and Frameworks
+LiveLessons,Documentation
+lizzie,Software Tools
+lmdbjava,Non-Web Libraries and Frameworks
+log-captor,Software Tools
+log-viewer,Web Libraries and Frameworks
+log4j2burpscanner,Non-Web Libraries and Frameworks
+Log4j2Scan,Software Tools
+log4jdbc,Non-Web Libraries and Frameworks
+logback,Documentation
+logback-android,Non-Web Libraries and Frameworks
+logbook,Web Libraries and Frameworks
+LoggerPlusPlus,Application Software
+logging-log4j2,Software Tools
+logstash-logback-encoder,Non-Web Libraries and Frameworks
+loki-logback-appender,Web Libraries and Frameworks
+lombok,Non-Web Libraries and Frameworks
+lombok-intellij-plugin,Non-Web Libraries and Frameworks
+LookAtMe,Non-Web Libraries and Frameworks
+loops-e-arrays,Documentation
+lost,System Software
+lsp4intellij,Software Tools
+LSPatch,Non-Web Libraries and Frameworks
+LSPosed,Non-Web Libraries and Frameworks
+luaj,Non-Web Libraries and Frameworks
+lucene,Documentation
+LuckPerms,System Software
+LuckyMoneyTool,Documentation
+luna-fans-api,Web Libraries and Frameworks
+Lunary-Ethereum-Wallet,Application Software
+Luyten,Non-Web Libraries and Frameworks
+lz4-java,Non-Web Libraries and Frameworks
+mage,Application Software
+mahout,Software Tools
+malilib,Non-Web Libraries and Frameworks
+mammoth,Web Libraries and Frameworks
+ManifestEditor,Software Tools
+manifold,Non-Web Libraries and Frameworks
+MantaroBot,Application Software
+mantis,Documentation
+mapbox-java,Web Libraries and Frameworks
+mapdb,Non-Web Libraries and Frameworks
+Mapper,Non-Web Libraries and Frameworks
+mapsforge,Web Libraries and Frameworks
+mapstruct,Non-Web Libraries and Frameworks
+mapstruct-examples,Non-Web Libraries and Frameworks
+maptool,Documentation
+markdown-writer-fx,Non-Web Libraries and Frameworks
+markor,Application Software
+Markwon,Web Libraries and Frameworks
+marmaray,System Software
+marquez,Documentation
+marytts,Application Software
+mastering-junit5,Documentation
+mastodon-android,Application Software
+material,Web Libraries and Frameworks
+MaterialAbout,Web Libraries and Frameworks
+MaterialFX,Documentation
+materialistic,Web Libraries and Frameworks
+MaterialShowcaseView,Web Libraries and Frameworks
+MaterialTapTargetPrompt,Non-Web Libraries and Frameworks
+Matisse,Web Libraries and Frameworks
+matomo-sdk-android,Web Libraries and Frameworks
+maven,Software Tools
+maven-git-versioning-extension,Software Tools
+maven-jaxb2-plugin,Software Tools
+maven-mvnd,Documentation
+maven-project,Documentation
+maven-surefire,Software Tools
+maxwell,Application Software
+mc-bots,Non-Web Libraries and Frameworks
+mcaselector,Software Tools
+MCCustomSkinLoader,Web Libraries and Frameworks
+MCinaBox,Documentation
+mcMMO,Web Libraries and Frameworks
+MCProtocolLib,Application Software
+MCVmComputers,Application Software
+media,Web Libraries and Frameworks
+MediathekView,Application Software
+megabasterd,Application Software
+Mekanism,Application Software
+memetastic,Documentation
+metadata-extractor,Non-Web Libraries and Frameworks
+metasfresh,Application Software
+meteor-client,System Software
+metrics,Documentation
+metrics-influxdb,Non-Web Libraries and Frameworks
+micro-manager,Application Software
+micro-server,Web Libraries and Frameworks
+microcks,Web Libraries and Frameworks
+micrometer,Web Libraries and Frameworks
+microprofile,Documentation
+microprofile-config,Documentation
+microservice-kafka,Web Libraries and Frameworks
+microservices,Web Libraries and Frameworks
+microstream,Non-Web Libraries and Frameworks
+MifareClassicTool,Application Software
+migrations,Documentation
+milkman,Software Tools
+milo,System Software
+mina,Documentation
+mina-sshd,Web Libraries and Frameworks
+Mindustry,Application Software
+minecolonies,Application Software
+minecraft-world-downloader,Application Software
+MinecraftForge,Documentation
+MineDojo,Web Libraries and Frameworks
+minerl,Application Software
+Minestom,Documentation
+minimal-json,Documentation
+minio-java,Web Libraries and Frameworks
+MinMinGuard,Web Libraries and Frameworks
+mirus,Web Libraries and Frameworks
+Mixin,Software Tools
+mixpanel-android,Application Software
+mobile-buy-sdk-android,Web Libraries and Frameworks
+Mobile-SDK-Android,Application Software
+mobius,Documentation
+MockBukkit,Software Tools
+mockito,Non-Web Libraries and Frameworks
+MockLocationDetector,Application Software
+mockneat,Non-Web Libraries and Frameworks
+mockserver,Documentation
+moco,Web Libraries and Frameworks
+modbus4j,Non-Web Libraries and Frameworks
+Modelio,Documentation
+modelmapper,Non-Web Libraries and Frameworks
+moditect,Software Tools
+ModMenu,Non-Web Libraries and Frameworks
+MOEAFramework,Software Tools
+Mohist,Web Libraries and Frameworks
+mondrian,System Software
+moneywallet,Application Software
+mongo-java-server,Non-Web Libraries and Frameworks
+mongo-kafka,Web Libraries and Frameworks
+mongo-spark,System Software
+mongock,Documentation
+moquette,Application Software
+morphia,Non-Web Libraries and Frameworks
+mortar,Web Libraries and Frameworks
+motan,System Software
+mp3agic,Non-Web Libraries and Frameworks
+mp4parser,Non-Web Libraries and Frameworks
+MPAndroidChart,Web Libraries and Frameworks
+mq-demo,Application Software
+ms-course,Documentation
+msgpack-java,Non-Web Libraries and Frameworks
+mssql-jdbc,System Software
+mucommander,Application Software
+mule,System Software
+multiconnect,Non-Web Libraries and Frameworks
+MultiPaper,System Software
+Multiverse-Core,Non-Web Libraries and Frameworks
+MusicBot,Web Libraries and Frameworks
+mvel,Non-Web Libraries and Frameworks
+mybatis-3,Non-Web Libraries and Frameworks
+mybatis-dynamic-sql,Web Libraries and Frameworks
+mybatis-plus,Non-Web Libraries and Frameworks
+Mycat2,System Software
+myexcel,Non-Web Libraries and Frameworks
+MyPerf4J,Non-Web Libraries and Frameworks
+mysql-binlog-connector-java,Non-Web Libraries and Frameworks
+mysql-connector-j,Non-Web Libraries and Frameworks
+mysql_perf_analyzer,System Software
+nacos,Web Libraries and Frameworks
+nacos-examples,Web Libraries and Frameworks
+nacos-spring-boot-project,Web Libraries and Frameworks
+nacos-spring-project,Web Libraries and Frameworks
+nakadi,Web Libraries and Frameworks
+Namjagbarwa-wow,Non-Web Libraries and Frameworks
+nanohttpd,Web Libraries and Frameworks
+NativeAlphaForAndroid,Non-Web Libraries and Frameworks
+nats.java,Web Libraries and Frameworks
+NClientV2,Non-Web Libraries and Frameworks
+nekodetector,Software Tools
+NekoSMS,Application Software
+Neo-Launcher,Application Software
+neo4j-apoc-procedures,Documentation
+neoeedit,Application Software
+neosemantics,Documentation
+nessie,Web Libraries and Frameworks
+netbeans,Application Software
+netbeans-mmd-plugin,Documentation
+netflix-graph,Non-Web Libraries and Frameworks
+netty,System Software
+netty-in-action,Software Tools
+netty-socketio,Web Libraries and Frameworks
+neurolab-android,Application Software
+NewPipe,Web Libraries and Frameworks
+NewPipeExtractor,Non-Web Libraries and Frameworks
+news-android,Application Software
+newts,Documentation
+nextcloud-deck,Application Software
+nfe,Application Software
+nginx-clojure,Web Libraries and Frameworks
+ngrinder,Application Software
+nice-spinner,Web Libraries and Frameworks
+nifi,Application Software
+Ninjabrain-Bot,Application Software
+nitrite-java,Non-Web Libraries and Frameworks
+No-Chat-Reports,Documentation
+node-android,System Software
+nodebox,Application Software
+NodeMediaClient-Android,Non-Web Libraries and Frameworks
+nomulus,Non-Web Libraries and Frameworks
+norm,Non-Web Libraries and Frameworks
+NotEnoughUpdates,Application Software
+NotePad,Application Software
+notes-android,Application Software
+NPCLib,Non-Web Libraries and Frameworks
+ns-usbloader,Documentation
+nuclei-burp-plugin,Software Tools
+Nukkit,Application Software
+NullAway,Application Software
+nutch,Software Tools
+nutz,Non-Web Libraries and Frameworks
+oandbackup,Application Software
+OBAndroid,Application Software
+objectbox-java,Non-Web Libraries and Frameworks
+objectify,Non-Web Libraries and Frameworks
+objenesis,Non-Web Libraries and Frameworks
+OCR4all,Documentation
+ognl,Non-Web Libraries and Frameworks
+ohc,Documentation
+OkapiBarcode,Non-Web Libraries and Frameworks
+okbuck,Software Tools
+omegat,Documentation
+Omni-Notes,Application Software
+omnifaces,Web Libraries and Frameworks
+one-java-agent,Software Tools
+one-nio,Non-Web Libraries and Frameworks
+onebusaway-application-modules,Web Libraries and Frameworks
+onedev,Web Libraries and Frameworks
+OneSignal-Android-SDK,Web Libraries and Frameworks
+ontop,Documentation
+oozie,System Software
+open-keychain,Application Software
+open-pdf-sign,Application Software
+openai-java,Non-Web Libraries and Frameworks
+openapi-diff,Documentation
+openapi-generator,Documentation
+openaudible,Application Software
+OpenAudioMc,Application Software
+opencms-core,Web Libraries and Frameworks
+Openfire,Web Libraries and Frameworks
+openhab-addons,Documentation
+openhab-core,Non-Web Libraries and Frameworks
+OpenHuFu,System Software
+OpenKeeper,Non-Web Libraries and Frameworks
+OpenLegislation,Web Libraries and Frameworks
+openmeetings,Web Libraries and Frameworks
+openmrs-core,Documentation
+opennlp,Non-Web Libraries and Frameworks
+opennms,System Software
+OpenPDF,Non-Web Libraries and Frameworks
+openpnp,Software Tools
+openrocket,Documentation
+openrouteservice,Web Libraries and Frameworks
+openScale,Application Software
+OpenSearch,Documentation
+openstego,Application Software
+opentcs,Application Software
+opentelemetry-java,Non-Web Libraries and Frameworks
+opentelemetry-java-instrumentation,Non-Web Libraries and Frameworks
+opentok-android-sdk-samples,Web Libraries and Frameworks
+OpenTracks,Application Software
+OpenTripPlanner,Web Libraries and Frameworks
+opentsdb,Documentation
+opsu,Non-Web Libraries and Frameworks
+optaplanner,Documentation
+oraxen,Application Software
+org.alloytools.alloy,Application Software
+orientdb,System Software
+Orienteer,Application Software
+oripa,Application Software
+oshi,Non-Web Libraries and Frameworks
+OSM2World,System Software
+OsmAnd,Application Software
+osmdroid,Web Libraries and Frameworks
+osmosis,Application Software
+osmtracker-android,Web Libraries and Frameworks
+osu-droid,Application Software
+otj-pg-embedded,Non-Web Libraries and Frameworks
+ovirt-engine,Documentation
+owasp-java-encoder,Web Libraries and Frameworks
+owlapi,Non-Web Libraries and Frameworks
+owner,Non-Web Libraries and Frameworks
+ozone,System Software
+pac4j,Web Libraries and Frameworks
+pagehelper-spring-boot,Web Libraries and Frameworks
+paho.mqtt.android,Web Libraries and Frameworks
+paho.mqtt.java,Web Libraries and Frameworks
+PanelStudio,Non-Web Libraries and Frameworks
+para,System Software
+parallel-consumer,Documentation
+parboiled,Documentation
+parquet-mr,Web Libraries and Frameworks
+Parse-SDK-Android,System Software
+parseq,Web Libraries and Frameworks
+particle-life-app,Software Tools
+password4j,Non-Web Libraries and Frameworks
+Patcher,System Software
+Payara,Application Software
+pdf2json,Non-Web Libraries and Frameworks
+pdfbox,Non-Web Libraries and Frameworks
+PdfBox-Android,Non-Web Libraries and Frameworks
+pdfsam,Application Software
+pebble,Non-Web Libraries and Frameworks
+Peergos,Application Software
+pentaho-kettle,Software Tools
+pentaho-platform,Application Software
+PercentageChartView,Web Libraries and Frameworks
+performance-plugin,Software Tools
+Perl5-IDEA,Software Tools
+PermissionsEx,Software Tools
+PersianDate,Non-Web Libraries and Frameworks
+personaldnsfilter,System Software
+pf4j,Non-Web Libraries and Frameworks
+pgjdbc,Non-Web Libraries and Frameworks
+pgjdbc-ng,Non-Web Libraries and Frameworks
+philadelphia,Non-Web Libraries and Frameworks
+phimpme-android,Application Software
+phoenicis,Application Software
+phoenix,System Software
+PHONK,Application Software
+phosphor-fabric,Web Libraries and Frameworks
+photon,Web Libraries and Frameworks
+phpinspectionsea,Non-Web Libraries and Frameworks
+phrase,Non-Web Libraries and Frameworks
+pi4j-v2,Documentation
+picard,Software Tools
+PickImage,Application Software
+picocli,Software Tools
+pig,Documentation
+pinduoduo_backdoor_unpacker,Non-Web Libraries and Frameworks
+pinot,System Software
+pinpoint,Web Libraries and Frameworks
+piper,Software Tools
+pippo,Web Libraries and Frameworks
+pitest,Software Tools
+PlaceholderAPI,Web Libraries and Frameworks
+Plan,Application Software
+planetiler,Web Libraries and Frameworks
+plantuml,Documentation
+plantuml4idea,Documentation
+Player,Application Software
+Player_Android,Non-Web Libraries and Frameworks
+playwright-java,Web Libraries and Frameworks
+plc4x,Non-Web Libraries and Frameworks
+PlotSquared,Application Software
+pmd,Software Tools
+PNG-Upscale,Application Software
+poc-graphql,Documentation
+POCDriver,Software Tools
+poi,Documentation
+poi-on-android,Non-Web Libraries and Frameworks
+poi-tl,Non-Web Libraries and Frameworks
+PojavLauncher_iOS,Application Software
+polardbx-sql,System Software
+pollexor,Web Libraries and Frameworks
+PolyMc,Web Libraries and Frameworks
+portfolio,Documentation
+portmapper,Documentation
+Portugol-Studio,Application Software
+Potato,Documentation
+powerampapi,Application Software
+PowerJob,Application Software
+PowerMenu,Web Libraries and Frameworks
+powermock,Non-Web Libraries and Frameworks
+PowerTunnel,Non-Web Libraries and Frameworks
+pravega,System Software
+PreferencesFX,Documentation
+presto,System Software
+prettytime,Non-Web Libraries and Frameworks
+PrettyZoo,Web Libraries and Frameworks
+prey-android-client,Application Software
+Priam,System Software
+prim-ftpd,Application Software
+problem,Non-Web Libraries and Frameworks
+problem-spring-web,Web Libraries and Frameworks
+processing-android,Non-Web Libraries and Frameworks
+processing4,Documentation
+proctor,Application Software
+product-apim,Web Libraries and Frameworks
+progressbar,Documentation
+proguard,Software Tools
+proguard-maven-plugin,Software Tools
+ProjectE,Web Libraries and Frameworks
+ProjectOxford-Apps-MimickerAlarm,Application Software
+ProjectRed,Non-Web Libraries and Frameworks
+protege,Documentation
+proteus,Web Libraries and Frameworks
+ProtocolLib,Web Libraries and Frameworks
+prowide-core,Non-Web Libraries and Frameworks
+proxyee,Web Libraries and Frameworks
+psi-probe,Software Tools
+pslab-android,Application Software
+public-transport-enabler,Non-Web Libraries and Frameworks
+PublicAPI,Web Libraries and Frameworks
+PublicAPI,Documentation
+pulsar,System Software
+pushy,Web Libraries and Frameworks
+pwm,System Software
+qiscus-sdk-android,Software Tools
+QLExpress,Non-Web Libraries and Frameworks
+qpython,Application Software
+Quark,Non-Web Libraries and Frameworks
+quarkus,Web Libraries and Frameworks
+quartz,Documentation
+querydsl,Non-Web Libraries and Frameworks
+questdb,Non-Web Libraries and Frameworks
+QuickDevFramework,Non-Web Libraries and Frameworks
+quickfixj,System Software
+quickperf,Non-Web Libraries and Frameworks
+QuickShot,Non-Web Libraries and Frameworks
+quilt-loader,Non-Web Libraries and Frameworks
+quiltflower,Non-Web Libraries and Frameworks
+qulice,Software Tools
+qupath,Application Software
+r2dbc-postgresql,Non-Web Libraries and Frameworks
+rabbitmq-java-client,Documentation
+radiance,Web Libraries and Frameworks
+Rajawali,Non-Web Libraries and Frameworks
+randoop,Software Tools
+RapidView,Non-Web Libraries and Frameworks
+rars,Application Software
+ratelimitj,Non-Web Libraries and Frameworks
+ratis,Non-Web Libraries and Frameworks
+react-native-date-picker,Web Libraries and Frameworks
+react-native-gl-model-view,Web Libraries and Frameworks
+react-native-google-fit,Non-Web Libraries and Frameworks
+react-native-photo-editor,Non-Web Libraries and Frameworks
+react-native-rectangle-scanner,Web Libraries and Frameworks
+react-native-send-intent,Non-Web Libraries and Frameworks
+reactive-grpc,Web Libraries and Frameworks
+reactive-streams-jvm,Non-Web Libraries and Frameworks
+reactor-core,Non-Web Libraries and Frameworks
+reactor-netty,Web Libraries and Frameworks
+Recaf,Non-Web Libraries and Frameworks
+record-builder,Non-Web Libraries and Frameworks
+recyclerview-playground,Non-Web Libraries and Frameworks
+red5-server,System Software
+redis-om-spring,Non-Web Libraries and Frameworks
+redis-replicator,Documentation
+redisson,Non-Web Libraries and Frameworks
+RedReader,Application Software
+RefactoringMiner,Documentation
+reflectasm,Non-Web Libraries and Frameworks
+reflections,Non-Web Libraries and Frameworks
+rejoiner,Web Libraries and Frameworks
+reladomo,Non-Web Libraries and Frameworks
+remote-desktop-clients,Application Software
+RemoteDroid,Documentation
+RemoteShuffleService,System Software
+repairnator,Software Tools
+ReplayMod,Application Software
+resilience4j,Documentation
+rest-assured,Web Libraries and Frameworks
+rest.li,Web Libraries and Frameworks
+restcountries,Web Libraries and Frameworks
+resteasy,Web Libraries and Frameworks
+restfb,Documentation
+restheart,Web Libraries and Frameworks
+retrofit,Web Libraries and Frameworks
+revanced-integrations,Software Tools
+revolution-irc,Application Software
+rewrite,Software Tools
+ribbon,Web Libraries and Frameworks
+rides-android-sdk,Web Libraries and Frameworks
+rife2,Web Libraries and Frameworks
+riiablo,Non-Web Libraries and Frameworks
+RikkaX,Non-Web Libraries and Frameworks
+ripme,Web Libraries and Frameworks
+Roadmap-to-Embedded-Engineering,Documentation
+RoaringBitmap,Non-Web Libraries and Frameworks
+roaster,Documentation
+robolectric,Application Software
+robovm,Application Software
+rocker,Web Libraries and Frameworks
+rocketmq,System Software
+rocketmq-spring,Non-Web Libraries and Frameworks
+rome,Non-Web Libraries and Frameworks
+RootCommands,Non-Web Libraries and Frameworks
+ROS-Mobile-Android,Application Software
+rose,Web Libraries and Frameworks
+RoughlyEnoughItems,Non-Web Libraries and Frameworks
+rpicheck,Documentation
+rskj,System Software
+rsocket-java,Web Libraries and Frameworks
+RSyntaxTextArea,Non-Web Libraries and Frameworks
+rtree,Non-Web Libraries and Frameworks
+Rucky,Software Tools
+rultor,Documentation
+rumble,Web Libraries and Frameworks
+runelite,Non-Web Libraries and Frameworks
+runnerup,Application Software
+rx-preferences,Non-Web Libraries and Frameworks
+RxDogTag,Non-Web Libraries and Frameworks
+RxIdler,Web Libraries and Frameworks
+RxJava,Non-Web Libraries and Frameworks
+rxjava-extras,Non-Web Libraries and Frameworks
+rxjava-jdbc,Web Libraries and Frameworks
+rxjava2-jdbc,Documentation
+RxJavaExtensions,Non-Web Libraries and Frameworks
+RxJavaInterop,Non-Web Libraries and Frameworks
+RxLifecycle,Web Libraries and Frameworks
+RxPermission,Non-Web Libraries and Frameworks
+s2-geometry-library-java,Non-Web Libraries and Frameworks
+s3proxy,System Software
+sakai,System Software
+sample-projects,Documentation
+sample-spring-microservices-new,Web Libraries and Frameworks
+samza,System Software
+SapMachine,System Software
+sardine,Web Libraries and Frameworks
+scala-maven-plugin,Software Tools
+scalecube-services,Web Libraries and Frameworks
+ScalingLayout,Web Libraries and Frameworks
+scene,Web Libraries and Frameworks
+scenebuilder,Application Software
+schema-registry,Web Libraries and Frameworks
+scoold,Documentation
+sdfs,System Software
+sdl_java_suite,Web Libraries and Frameworks
+sdrtrunk,System Software
+seadroid,Application Software
+sealtalk-android,Application Software
+SearchableSpinner,Non-Web Libraries and Frameworks
+seata,System Software
+seatunnel,System Software
+secor,System Software
+SecurityShepherd,Documentation
+SeedcrackerX,System Software
+SeedSearcherStandaloneTool,Software Tools
+seismic,Non-Web Libraries and Frameworks
+sejda,Non-Web Libraries and Frameworks
+selenide,Web Libraries and Frameworks
+Selenium-Maven-Template,Web Libraries and Frameworks
+SeLion,Software Tools
+sempre,Software Tools
+sendgrid-java,Web Libraries and Frameworks
+seppuku,Software Tools
+SequencePlugin,Application Software
+SereneSeasons,Non-Web Libraries and Frameworks
+Serial,Documentation
+Sermant,Application Software
+servicecomb-java-chassis,Web Libraries and Frameworks
+servicecomb-saga-actuator,Documentation
+servicetalk,Documentation
+servo,Web Libraries and Frameworks
+sevntu.checkstyle,Documentation
+sfg-blog-posts,Documentation
+shacl,Non-Web Libraries and Frameworks
+ShaderEditor,Non-Web Libraries and Frameworks
+SHAFT_ENGINE,Software Tools
+shardingsphere,System Software
+shardingsphere-elasticjob,System Software
+shattered-pixel-dungeon,Documentation
+ShedLock,Non-Web Libraries and Frameworks
+Shelter,Application Software
+shenyu,Web Libraries and Frameworks
+shepher,System Software
+shimmer-android,Web Libraries and Frameworks
+shiro,Documentation
+shiro-redis,Non-Web Libraries and Frameworks
+Shizuku-API,Non-Web Libraries and Frameworks
+ShizuruNotes,Application Software
+shopizer,Web Libraries and Frameworks
+shutter-encoder,Application Software
+siddhi,Web Libraries and Frameworks
+signal-cli,System Software
+Signal-Server,Documentation
+SimFix,Software Tools
+Simple-Android-OCR,Non-Web Libraries and Frameworks
+Simple-Java-Calculator,Software Tools
+simple-java-mail,Non-Web Libraries and Frameworks
+simple-keyboard,Application Software
+simple-stack,Non-Web Libraries and Frameworks
+simplelanguage,Documentation
+SIMRS-Khanza,Documentation
+SingleDateAndTimePicker,Web Libraries and Frameworks
+Singularity,Web Libraries and Frameworks
+sirix,System Software
+skara,Software Tools
+Sketchware-Pro,Application Software
+skidfuscator-java-obfuscator,Non-Web Libraries and Frameworks
+skin-composer,Web Libraries and Frameworks
+SkinsRestorerX,Web Libraries and Frameworks
+Skript,Documentation
+SkyblockAddons,Documentation
+SkyTube,Application Software
+skywalking,Non-Web Libraries and Frameworks
+skywalking-java,System Software
+slack-plugin,Software Tools
+slf4j,Non-Web Libraries and Frameworks
+slice,Non-Web Libraries and Frameworks
+Slimefun4,Application Software
+SlimFast,Software Tools
+slugify,Non-Web Libraries and Frameworks
+Smack,Web Libraries and Frameworks
+smallrye-mutiny,Web Libraries and Frameworks
+smallrye-reactive-messaging,Non-Web Libraries and Frameworks
+SMAPI-Android-Installer,Non-Web Libraries and Frameworks
+smart-doc,Documentation
+smart-socket,Non-Web Libraries and Frameworks
+SmartEngine,Application Software
+SmartPack-Kernel-Manager,Application Software
+SmartPGP,Non-Web Libraries and Frameworks
+SmartTubeNext,Application Software
+smbj,Documentation
+smithy,Documentation
+smooks,Documentation
+sms-backup-plus,Documentation
+snapdrop-android,Application Software
+sndcpy,System Software
+SnpEff,Documentation
+soapui,Software Tools
+socket.io-client-java,Non-Web Libraries and Frameworks
+sodium-fabric,Documentation
+sofa-ark,Non-Web Libraries and Frameworks
+sofa-bolt,System Software
+sofa-boot,Web Libraries and Frameworks
+sofa-jraft,System Software
+sofa-registry,Web Libraries and Frameworks
+sofa-rpc,System Software
+sofa-tracer,Documentation
+SoLoader,Web Libraries and Frameworks
+solon,Web Libraries and Frameworks
+solr,Web Libraries and Frameworks
+sonar-bsl-plugin-community,Application Software
+sonar-cxx,Documentation
+sonar-java,Software Tools
+sonar-l10n-zh,Web Libraries and Frameworks
+sonar-scanner-cli,Documentation
+sonarqube,Documentation
+sonarqube-community-branch-plugin,Software Tools
+soot,System Software
+SootUp,Non-Web Libraries and Frameworks
+sora-editor,Web Libraries and Frameworks
+SORMAS-Project,Application Software
+sortpom,Software Tools
+soter,Application Software
+spark,Web Libraries and Frameworks
+spark-bigquery-connector,Web Libraries and Frameworks
+sparrow,Application Software
+spatial-framework-for-hadoop,Web Libraries and Frameworks
+spatial4j,Non-Web Libraries and Frameworks
+specification-arg-resolver,Web Libraries and Frameworks
+spectator,Non-Web Libraries and Frameworks
+speed-test-lib,Software Tools
+Sponge,Documentation
+SpongeAPI,System Software
+spoon,Non-Web Libraries and Frameworks
+spotbugs,Software Tools
+spotify-web-api-java,Web Libraries and Frameworks
+spotless,Software Tools
+spring,Web Libraries and Frameworks
+spring-amqp,Documentation
+spring-amqp-samples,Web Libraries and Frameworks
+spring-authorization-server,Documentation
+spring-batch,Application Software
+spring-boot,Documentation
+spring-boot-101,Web Libraries and Frameworks
+spring-boot-3-jwt-security,Web Libraries and Frameworks
+spring-boot-basics,Web Libraries and Frameworks
+spring-boot-dynamic-config,Application Software
+spring-boot-learning,Documentation
+spring-boot-microservices,Web Libraries and Frameworks
+spring-boot-plus,Web Libraries and Frameworks
+spring-boot-realworld-example-app,Web Libraries and Frameworks
+spring-boot-rest-example,Web Libraries and Frameworks
+spring-boot-spring-security-jwt-authentication,Web Libraries and Frameworks
+spring-boot-student,Web Libraries and Frameworks
+spring-cloud-alibaba,Web Libraries and Frameworks
+spring-cloud-aws,Web Libraries and Frameworks
+spring-cloud-bus,Documentation
+spring-cloud-circuitbreaker,Documentation
+spring-cloud-commons,Documentation
+spring-cloud-config,Documentation
+spring-cloud-consul,Documentation
+spring-cloud-dataflow,Application Software
+spring-cloud-function,Documentation
+spring-cloud-gateway,Documentation
+spring-cloud-huawei,Application Software
+spring-cloud-kubernetes,Documentation
+spring-cloud-netflix,Documentation
+spring-cloud-openfeign,Documentation
+spring-cloud-release,Documentation
+spring-cloud-sleuth,Documentation
+spring-cloud-stream,Documentation
+spring-cloud-stream-samples,Documentation
+spring-cloud-task,Documentation
+spring-cloud-tencent,Web Libraries and Frameworks
+spring-cloud-zookeeper,Documentation
+spring-cloud-zuul-ratelimit,Documentation
+spring-data-book,Documentation
+spring-data-cassandra,Documentation
+spring-data-commons,Documentation
+spring-data-elasticsearch,Documentation
+spring-data-jpa,Documentation
+spring-data-jpa-entity-graph,Web Libraries and Frameworks
+spring-data-jpa-examples,Documentation
+spring-data-mongodb,Documentation
+spring-data-neo4j,Documentation
+spring-data-redis,Documentation
+spring-data-relational,Documentation
+spring-data-rest,Documentation
+spring-data-solr,Documentation
+spring-elasticsearch,Web Libraries and Frameworks
+spring-framework,Web Libraries and Frameworks
+spring-graphql,Web Libraries and Frameworks
+spring-guide,Documentation
+spring-hateoas,Documentation
+spring-integration,Web Libraries and Frameworks
+spring-integration-samples,Non-Web Libraries and Frameworks
+spring-javaformat,Documentation
+spring-kafka,Web Libraries and Frameworks
+spring-kata,Documentation
+spring-learning,Documentation
+spring-lemon,Web Libraries and Frameworks
+spring-master-class,Web Libraries and Frameworks
+spring-microservice-boilerplate,Web Libraries and Frameworks
+spring-modulith,Documentation
+spring-petclinic-rest,Web Libraries and Frameworks
+spring-reactive-sample,Web Libraries and Frameworks
+spring-restbucks,Documentation
+spring-restdocs,Documentation
+spring-retry,Non-Web Libraries and Frameworks
+spring-security,Documentation
+spring-security-pac4j,Web Libraries and Frameworks
+spring-security-registration,Web Libraries and Frameworks
+spring-security-samples,Documentation
+spring-session,Documentation
+spring-shell,Documentation
+spring-webflow,Web Libraries and Frameworks
+spring-ws,Documentation
+spring5webapp,Web Libraries and Frameworks
+springboot-blog-rest-api,Web Libraries and Frameworks
+springboot-jwt-starter,Web Libraries and Frameworks
+springboot-learning,Documentation
+springdoc-openapi,Web Libraries and Frameworks
+springdoc-openapi-demos,Web Libraries and Frameworks
+SpringIn28Minutes,Documentation
+Springy-Store-Microservices,Web Libraries and Frameworks
+sputnik,Software Tools
+Spyglass,Non-Web Libraries and Frameworks
+sqlancer,Software Tools
+sqlite-android,Non-Web Libraries and Frameworks
+SquidLib,Non-Web Libraries and Frameworks
+sshj,Documentation
+sslcontext-kickstart,Non-Web Libraries and Frameworks
+stargate,Documentation
+Starlight,Non-Web Libraries and Frameworks
+status-keycard,Non-Web Libraries and Frameworks
+steady,Software Tools
+stendhal,Documentation
+StepView,Non-Web Libraries and Frameworks
+stetho,Web Libraries and Frameworks
+steve,System Software
+StompProtocolAndroid,Web Libraries and Frameworks
+storm,Documentation
+Strata,Documentation
+strimzi-kafka-operator,Documentation
+StringManipulation,Software Tools
+stringtemplate4,Non-Web Libraries and Frameworks
+stripe-java,Non-Web Libraries and Frameworks
+structr,Documentation
+struts,Web Libraries and Frameworks
+sts4,Documentation
+styx,Web Libraries and Frameworks
+subclipse,Web Libraries and Frameworks
+Subsonic,Software Tools
+Sudachi,Software Tools
+sunrisesunsetlib-java,Documentation
+supertokens-core,Web Libraries and Frameworks
+Superuser,Documentation
+support-diagnostics,Software Tools
+suro,System Software
+swagger-core,Web Libraries and Frameworks
+swagger-maven-plugin,Documentation
+swagger-parser,Web Libraries and Frameworks
+swiftp,System Software
+symmetric-ds,System Software
+syncthing-android,Non-Web Libraries and Frameworks
+synthea,Documentation
+systemds,System Software
+t-digest,Non-Web Libraries and Frameworks
+ta4j,Non-Web Libraries and Frameworks
+TAB,Web Libraries and Frameworks
+tabby,Documentation
+TableFixHeaders,Web Libraries and Frameworks
+tablesaw,Non-Web Libraries and Frameworks
+TableView,Web Libraries and Frameworks
+tabula-java,Non-Web Libraries and Frameworks
+Tachidesk-Server,Web Libraries and Frameworks
+Tai-e,Non-Web Libraries and Frameworks
+takes,Web Libraries and Frameworks
+talos,Web Libraries and Frameworks
+tape,Non-Web Libraries and Frameworks
+tarql,Non-Web Libraries and Frameworks
+TarsJava,Non-Web Libraries and Frameworks
+Taskbar,Application Software
+tda,System Software
+team-explorer-everywhere,Documentation
+teavm,Non-Web Libraries and Frameworks
+TechReborn,Documentation
+TedBottomPicker,Web Libraries and Frameworks
+teku,Documentation
+telegram-sms,Application Software
+Telegram-X,System Software
+TelegramBots,Non-Web Libraries and Frameworks
+tencentcloud-sdk-java,Software Tools
+TencentKona-11,System Software
+TencentKona-8,System Software
+TencentKonaSMSuite,System Software
+Terasology,Application Software
+termux-api,System Software
+termux-app,Application Software
+termux-tasker,Documentation
+termux-widget,Application Software
+Terra,Non-Web Libraries and Frameworks
+TerraFirmaCraft,Documentation
+TerraForged,Non-Web Libraries and Frameworks
+TerraformGenerator,Non-Web Libraries and Frameworks
+tess4j,Non-Web Libraries and Frameworks
+testcontainers-java,Non-Web Libraries and Frameworks
+testcontainers-spring-boot,Documentation
+TestFX,Software Tools
+testng,Documentation
+testng-eclipse,Application Software
+TestParameterInjector,Non-Web Libraries and Frameworks
+tetrad,Non-Web Libraries and Frameworks
+textidote,Documentation
+TextLayoutBuilder,Non-Web Libraries and Frameworks
+tez,System Software
+Thanox,Documentation
+threadtear,Non-Web Libraries and Frameworks
+threema-android,Application Software
+ThreeTenABP,Non-Web Libraries and Frameworks
+threetenbp,Non-Web Libraries and Frameworks
+throwing-function,Non-Web Libraries and Frameworks
+thumbnailator,Non-Web Libraries and Frameworks
+thymeleaf,Documentation
+tigase-server,System Software
+tika,Documentation
+Timber,Non-Web Libraries and Frameworks
+Time4J,Non-Web Libraries and Frameworks
+tindroid,Application Software
+tinker,Non-Web Libraries and Frameworks
+TinkersConstruct,Application Software
+tinylog,Documentation
+tis,Web Libraries and Frameworks
+TLS-Attacker,Software Tools
+Today-I-Learn,Documentation
+togglz,Documentation
+tomcat,System Software
+toml4j,Documentation
+TonY,Web Libraries and Frameworks
+tooltips,Non-Web Libraries and Frameworks
+topjava,Application Software
+TornadoVM,System Software
+Towny,Application Software
+traccar,Application Software
+transactions-essentials,Application Software
+transdroid,Application Software
+transport,Non-Web Libraries and Frameworks
+TrashEmail,Application Software
+tray,Application Software
+tribuo,Non-Web Libraries and Frameworks
+trilead-ssh2,Documentation
+trino,System Software
+triplea,Non-Web Libraries and Frameworks
+truth,Non-Web Libraries and Frameworks
+tsid-creator,Non-Web Libraries and Frameworks
+tsunami-security-scanner,Software Tools
+tsunami-security-scanner-plugins,Documentation
+TTS,Documentation
+Turbine,Documentation
+turms,Application Software
+tutorials,Documentation
+tweakeroo,Non-Web Libraries and Frameworks
+TwelveMonkeys,Non-Web Libraries and Frameworks
+twilio-java,Documentation
+Twire,Application Software
+Twitter4J,Documentation
+twoyi,Non-Web Libraries and Frameworks
+TxtNet-Browser,Web Libraries and Frameworks
+typescript-generator,Non-Web Libraries and Frameworks
+typetools,Non-Web Libraries and Frameworks
+u2020,Application Software
+uaa,System Software
+uber-apk-signer,Software Tools
+uCrop,Application Software
+ud851-Exercises,Application Software
+ud851-Sunshine,Documentation
+ud862-samples,Application Software
+ud867,Software Tools
+uid-generator,Non-Web Libraries and Frameworks
+underscore-java,Non-Web Libraries and Frameworks
+undertow,Web Libraries and Frameworks
+Unexpected-Keyboard,Non-Web Libraries and Frameworks
+unidbg,System Software
+unirest-java,Web Libraries and Frameworks
+Universal-G-Code-Sender,Software Tools
+universal-resolver,Web Libraries and Frameworks
+univocity-parsers,Non-Web Libraries and Frameworks
+update4j,Software Tools
+uReplicator,Web Libraries and Frameworks
+urlbuilder,Non-Web Libraries and Frameworks
+Urldns,Non-Web Libraries and Frameworks
+USB-MIDI-Driver,Non-Web Libraries and Frameworks
+usb-serial-for-android,Non-Web Libraries and Frameworks
+UsbSerial,Non-Web Libraries and Frameworks
+utt,Software Tools
+valhalla,Documentation
+validator,Web Libraries and Frameworks
+vanilla,Documentation
+VasDolly,Application Software
+vassal,Documentation
+Vault,Web Libraries and Frameworks
+vavr,Non-Web Libraries and Frameworks
+Velocity,Web Libraries and Frameworks
+venice,Documentation
+versions,Software Tools
+vert.x,System Software
+VerticalViewPager,Web Libraries and Frameworks
+vertx-examples,Documentation
+vertx-jooq,Non-Web Libraries and Frameworks
+vertx-sql-client,Documentation
+vertx-web,Documentation
+ViaBackwards,Web Libraries and Frameworks
+ViaFabric,Web Libraries and Frameworks
+ViaRewind,Web Libraries and Frameworks
+ViaVersion,Web Libraries and Frameworks
+VideoProcessor,Non-Web Libraries and Frameworks
+Viewpager-Transformation,Web Libraries and Frameworks
+VinylMusicPlayer,Application Software
+Virtual-Hosts,Application Software
+visualvm,Documentation
+vjtools,Non-Web Libraries and Frameworks
+vlcj,Non-Web Libraries and Frameworks
+voj,Web Libraries and Frameworks
+volley,Web Libraries and Frameworks
+Vortex,Application Software
+vosk-android-demo,Non-Web Libraries and Frameworks
+vprofile-project,Non-Web Libraries and Frameworks
+vsminecraft,Software Tools
+vsphere-automation-sdk-java,System Software
+VulkanMod,Web Libraries and Frameworks
+VulnerableApp,Web Libraries and Frameworks
+waffle,System Software
+wahh_extras,Documentation
+WALA,Non-Web Libraries and Frameworks
+wallet-cli,Application Software
+waltz,System Software
+warpinator-android,Non-Web Libraries and Frameworks
+wasp,Application Software
+watomatic,Application Software
+WaveInApp,Documentation
+Waystones,Non-Web Libraries and Frameworks
+Web-Karma,Application Software
+web3j,Web Libraries and Frameworks
+WeBASE,Application Software
+webauthn4j,Web Libraries and Frameworks
+webbit,Web Libraries and Frameworks
+webcam-capture,Web Libraries and Frameworks
+WebCollector,Web Libraries and Frameworks
+webdrivermanager,Non-Web Libraries and Frameworks
+webmagic,Software Tools
+webprotege,Web Libraries and Frameworks
+webpush-java,Web Libraries and Frameworks
+webview,Application Software
+WechatUnrecalled,Documentation
+weixin-java-demo-springmvc,Web Libraries and Frameworks
+wicket,Web Libraries and Frameworks
+wigle-wifi-wardriving,Application Software
+wildfly,Application Software
+wildwebdeveloper,Web Libraries and Frameworks
+windup,Documentation
+wiremock,Documentation
+woodstox,Non-Web Libraries and Frameworks
+WorldDownloader,Non-Web Libraries and Frameworks
+WorldEdit,Web Libraries and Frameworks
+WorldGuard,Application Software
+WorldWindJava,Non-Web Libraries and Frameworks
+Wurst7,Software Tools
+wycheproof,Non-Web Libraries and Frameworks
+X-Road,Documentation
+XChange,Non-Web Libraries and Frameworks
+XChart,Non-Web Libraries and Frameworks
+xdocreport,Web Libraries and Frameworks
+xDrip,Application Software
+xDrip-plus,Application Software
+XiaoMiToolV2,Software Tools
+xipki,System Software
+XLearning,Application Software
+xManager,Application Software
+xmlunit,Non-Web Libraries and Frameworks
+xmrwallet,Application Software
+xnio,Documentation
+xp,System Software
+XposedInstaller,Documentation
+XR3Player,Software Tools
+xsoup,Documentation
+xstream,Software Tools
+xtext,Documentation
+xwiki-platform,Documentation
+yacy_search_server,Web Libraries and Frameworks
+yahoofinance-api,Non-Web Libraries and Frameworks
+yarn,Non-Web Libraries and Frameworks
+yasson,Non-Web Libraries and Frameworks
+yauaa,Web Libraries and Frameworks
+yavi,Non-Web Libraries and Frameworks
+YCSB,Software Tools
+yGuard,Application Software
+ysomap,Non-Web Libraries and Frameworks
+ysoserial,Documentation
+zeebe,Web Libraries and Frameworks
+zemberek-nlp,Non-Web Libraries and Frameworks
+zeno,Web Libraries and Frameworks
+Zero-Allocation-Hashing,Documentation
+zerocode,Software Tools
+ZeroTermux,Application Software
+ZerotierFix,Application Software
+zip4j,Non-Web Libraries and Frameworks
+zipkin,Web Libraries and Frameworks
+zjsonpatch,Non-Web Libraries and Frameworks
+zk,Web Libraries and Frameworks
+zookeeper,System Software
+zotfile,Application Software
+zt-exec,Software Tools
+zt-zip,Non-Web Libraries and Frameworks
+zuul,Web Libraries and Frameworks
+zxcvbn4j,Non-Web Libraries and Frameworks
+zxing,Non-Web Libraries and Frameworks
